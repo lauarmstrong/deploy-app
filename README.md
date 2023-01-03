@@ -10,7 +10,7 @@ Deployed URL: http://udagram-api-dev2222222222.us-east-1.elasticbeanstalk.com/
 
 ### Frontend
 
-Deployed URL: http://database-1.chqql6jgattb.us-east-1.rds.amazonaws.com/
+Deployed URL (S3): https://mybucket869539869536.s3.amazonaws.com/s3-sample.html
 
 ### Installation
 
